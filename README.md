@@ -5,7 +5,7 @@
 # How to run it?
 
 install all the npm packages with the following command
-<code>npm install --save<code>
+<code>npm install --save</code>
 
 run the app with this command
-<code>npm start<code>
+<code>npm start</code>
